@@ -237,6 +237,6 @@ You are free to use, copy, modify, and share this project, including for coursew
 
 <div align="center">
 
-Made with ❤️ by the CSE 321 team at Daffodil International University
+Made with ❤️ 
 
 </div>
